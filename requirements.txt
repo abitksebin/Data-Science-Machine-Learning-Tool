@@ -1,0 +1,8 @@
+pywin32
+sklearn
+pandas
+matplotlib
+seaborn
+tabulate
+scipy
+numpy

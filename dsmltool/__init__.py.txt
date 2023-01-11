@@ -1,0 +1,15 @@
+#-------------------------------------------------------------------------------
+# Name:        __init__.py
+# Purpose:     module __init__
+# Project:     dsmltool - BITS M.Tech Dissertation
+# Author:      Abit K Sebin
+#
+# Created:     Jun - Aug 2022
+# Copyright:   (c) abitk 2022
+# Licence:     <None>
+#-------------------------------------------------------------------------------
+def main():
+    print("dsml tool imported")
+
+if __name__ == '__main__':
+    main()
