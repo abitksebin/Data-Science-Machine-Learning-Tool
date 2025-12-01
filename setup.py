@@ -10,7 +10,7 @@ with open('LICENSE') as f:
 setup(
     name='dsmltool',
     version='0.0.1',
-    description='Sample package for Python-Guide.org',
+    description='Package for DSML',
     long_description=readme,
     author='Abit K Sebin',
     author_email='abitksebin@gmail.com',
